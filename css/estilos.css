@@ -118,7 +118,6 @@ h2{
 .acerca1{
     height: 80vh;
     display: flex;
-    
     align-items: center;
     justify-content: center;
     margin-top:  -70px; 
@@ -133,6 +132,7 @@ h2{
     font-weight: bold;
     display: flex;
     align-items: center;
+    text-align: center;
     
  }
 
@@ -176,7 +176,7 @@ h2{
 
 
 .portafolios{
-    display: flex;
+    display: center;
     align-items: center;
     justify-content: center;
     height: 80vh;
